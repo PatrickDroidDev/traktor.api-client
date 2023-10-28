@@ -1,4 +1,4 @@
-var API_BASE_URL = "http://localhost:8080"
+var API_BASE_URL = "https://traktor.clipperdb.app:8080"
 
 function send(endpoint, data) {
   var request = new XMLHttpRequest(),
